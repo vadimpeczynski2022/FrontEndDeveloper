@@ -1,3 +1,2 @@
 # FrontEndDeveloper
-
-Nowe zmiany
+Workshops for Front-end developer course
